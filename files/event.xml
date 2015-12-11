@@ -1,0 +1,14 @@
+<object>
+    <field id="1" type="int" name="carId" getter="getCarId" setter="" notes="Vehicle car id"/>
+    <field id="2" type="double" name="lon" notes=""  getter="" setter="" />
+    <field id="3" type="double" name="lat" notes=""  getter="" setter="" />
+    <field id="5" type="stringU" name="locality" notes=""  getter="" setter="" />
+    <field id="6" type="long" name="eventDatetime"  getter="" setter="" />
+    <field id="7" type="byte" name="speed" notes="" getter="" setter="" />
+    <field id="8" type="boolean" name="ign" notes="" getter="" setter="" />
+    <field id="9" type="short" name="altitude" notes="" getter="" setter="" />
+    <field id="10" type="byte" name="busenos" notes="" getter="getBusenos" setter="" />
+
+
+
+</object>

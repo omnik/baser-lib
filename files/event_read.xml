@@ -1,0 +1,12 @@
+<object>
+    <field id="1" type="int" name="car_id" setter="setCar_id" notes="Vehicle car id"/>
+    <field id="2" type="double" name="lon2" notes=""/>
+    <field id="3" type="double" name="lat2" notes=""/>
+    <field id="5" type="stringU" name="locality" notes=""/>
+    <field id="6" type="long" name="eventDatetime"/>
+    <field id="7" type="byte" name="speed" notes=""/>
+    <field id="8" type="boolean" name="ign" notes=""/>
+    <field id="9" type="short" name="altitude" notes=""/>
+    <field id="10" type="byte" name="buseons" setter="setBusenos" notes=""/>
+
+</object>
